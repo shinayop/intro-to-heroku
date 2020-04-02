@@ -7,5 +7,5 @@
   "repository": "https://github.com/shinayop/intro-to-heroku",
   "addons": [
     "heroku-postgresql"
-  ]
+  ] 
 }
